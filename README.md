@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=36&duration=2000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Harshal+Jariwala;CTO+%40+Magnyte+Software;Building+High-Performance+SaaS" alt="Typing Banner" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=2000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%91%8B+Hi%2C+I%27m+Harshal+Jariwala;CTO+%40+Magnyte+Software;Building+High-Performance+SaaS" alt="Typing Banner" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-CTO%20%40%20Magnyte%20Software-bb9af3?style=for-the-badge&logoColor=white" alt="Role Badge" />
@@ -329,32 +329,21 @@
 
 ## 📈 GitHub Metrics
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hjgaming&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hjgaming&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hjgaming&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hjgaming&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Hjgaming&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Hjgaming&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hjgaming&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hjgaming&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hjgaming&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Hjgaming&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ### 👾 Contribution Snake
