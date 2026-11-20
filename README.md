@@ -19,7 +19,7 @@
 <p align="center">
   <a href="mailto:harshal@magnytesolution.com"><img src="https://img.shields.io/badge/Email-harshal%40magnytesolution.com-f7768e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://magnytesolution.com"><img src="https://img.shields.io/badge/Company-magnytesolution.com-9ece6a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company website" /></a>
-  <a href="https://linkedin.com/in/harshal-jariwala-cto"><img src="https://img.shields.io/badge/LinkedIn-Harshal%20Jariwala-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/harshal-jariwala-1101b2309"><img src="https://img.shields.io/badge/LinkedIn-Harshal%20Jariwala-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3&section=header" width="100%" alt="divider" />
@@ -37,7 +37,7 @@
         I care about code craftsmanship, automated verification and security-first design, and I like shipping software that real people open every day.
       </p>
       <ul>
-        <li>🏫 <b>Education:</b> B.Tech in Computer Engineering</li>
+        <li>🏫 <b>Education:</b>Master Of Computer Application (MCA)</li>
         <li>💡 <b>Mindset:</b> Clean abstractions, predictable execution, security by default</li>
         <li>🎯 <b>Focus:</b> SaaS platforms, Android apps and real-time systems</li>
       </ul>
@@ -153,16 +153,15 @@
 ## ⚡ Engineering Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,rust,dart,kotlin,swift,html,css&theme=dark" alt="Languages" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,electron,redux,tailwind,vite&theme=dark" alt="Frontend and mobile" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=express,fastify,graphql,prisma,socketio&theme=dark" alt="Backend" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,firebase&theme=dark" alt="Databases" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,nix,githubactions,vercel&theme=dark" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css&theme=dark" alt="Languages" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,redux,tailwind,vite&theme=dark" alt="Frontend and mobile" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=express,prisma,socketio&theme=dark" alt="Backend" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,firebase&theme=dark" alt="Databases" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,nix,githubactions,vercel&theme=dark" alt="Cloud and DevOps" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI%20Realtime-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Realtime" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
   <img src="https://img.shields.io/badge/Agentic%20AI-9ece6a?style=flat-square" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/System%20Design-bb9af7?style=flat-square" alt="System Design" />
@@ -173,8 +172,8 @@
 
 ## 🏗️ Engineering Experience
 
-- **Production backends:** Node.js with Fastify and Express for low-latency, highly concurrent APIs.
-- **Data architecture:** Secure MySQL, PostgreSQL and SQLite designs with Knex or Prisma, plus raw indexed SQL where speed matters.
+- **Production backends:** Node.js With Express for low-latency, highly concurrent APIs.
+- **Data architecture:** Secure MySQL and SQLite designs with Knex or Prisma, plus raw indexed SQL where speed matters.
 - **Auth & access control:** JWT, session cookies, TOTP MFA, face authentication and multi-tenant row-level access.
 - **Mobile delivery:** React Native and Expo apps shipped to Google Play, with EAS build pipelines.
 - **Real-time systems:** WebSocket pipelines, live tracking and voice AI on Twilio and OpenAI Realtime.
@@ -187,20 +186,9 @@
   <img src="https://img.shields.io/badge/3%2B%20Years-CTO%20Leadership-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="3+ years" />
   <img src="https://img.shields.io/badge/10%2B-Production%20Systems-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="10+ production systems" />
   <img src="https://img.shields.io/badge/99.9%25-Service%20Uptime-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="99.9% uptime" />
-  <img src="https://img.shields.io/badge/10k%2B-Active%20Users-f7768e?style=for-the-badge&labelColor=1a1b26" alt="10k+ users" />
+  <img src="https://img.shields.io/badge/10k%2B-Active%20Users-f7768e?style=for-the-badge&labelColor=1a1b26" alt="5k+ users" />
   <img src="https://img.shields.io/badge/4-Apps%20on%20Google%20Play-34a853?style=for-the-badge&labelColor=1a1b26" alt="4 apps on Google Play" />
 </p>
-
-### 🧠 Competitive Programming
-
-<p align="left">
-  <a href="https://leetcode.com/u/hjgaming/"><img src="https://img.shields.io/badge/LeetCode-hjgaming-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/hjgaming"><img src="https://img.shields.io/badge/CodeChef-hjgaming-5B4636?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://www.geeksforgeeks.org/user/hjgaming/"><img src="https://img.shields.io/badge/GeeksforGeeks-hjgaming-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://www.hackerrank.com/profile/hjgaming"><img src="https://img.shields.io/badge/HackerRank-hjgaming-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
-
----
 
 ## 📈 GitHub Metrics
 
@@ -246,7 +234,7 @@
 
 <p align="center">
   <a href="mailto:harshal@magnytesolution.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/harshal-jariwala-cto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/harshal-jariwala-1101b2309"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Hjgaming"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://magnytesolution.com"><img src="https://img.shields.io/badge/Magnyte%20Software-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Magnyte Software" /></a>
   <a href="https://leetcode.com/u/hjgaming/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
